@@ -1,0 +1,40 @@
+{
+ "alpha_open": 17.6,
+ "alpha_channel": 13.4,
+ "src_slope": 20.0,
+ "zoneA_ha": 1093.68,
+ "zoneB_ha": 167.58,
+ "calibration_share_inside": {
+  "LS-01": 0.097,
+  "LS-02": 0.962,
+  "LS-03": 1.0,
+  "LS-04": 1.0,
+  "LS-05": 1.0,
+  "LS-06": 1.0,
+  "LS-07": 0.978,
+  "LS-08": 0.952,
+  "LS-09": 1.0
+ },
+ "buildings_surveyed_by_status_reach": {
+  "clear": {
+   "": 50,
+   "A": 83,
+   "B": 37
+  },
+  "damaged": {
+   "": 0,
+   "A": 12,
+   "B": 0
+  },
+  "destroyed": {
+   "": 0,
+   "A": 36,
+   "B": 0
+  },
+  "edge": {
+   "": 2,
+   "A": 18,
+   "B": 1
+  }
+ }
+}

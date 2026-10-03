@@ -1,0 +1,10 @@
+id,name,description,area_m2,soil_m2,grey_m2,crown_z,toe_z,H_m,L_m,reach_angle_deg,azimuth_deg,slope_mean_deg,ndvi_pre_mean,ndvi_pre_source,source_m2,transport_m2,runout_m2,destroyed,damaged,edge
+LS-01,Northern debris-flood fan,"Debris flood / mudflow deposit; feeder channel enters from the west outside the survey, LS-02 runout also drains into it",50888,40759,9307,20.4,3.5,16.9,353.9,2.7,57,2.5,0.5,,0,2306,48560,0,0,3
+LS-02,Narrow northern debris flow,Long narrow scar on forested slope; channelised runout to the north-east into LS-01,9771,6070,3580,129.2,6.8,122.4,323.2,20.7,20,17.8,0.78,0.79,3962,3282,2524,0,0,0
+LS-03,"Twin-scar debris flow, north village",Two adjoining scars merging into one runout that buried the west side of the northern village and reached the road between houses,29911,25158,4233,108.3,7.3,101.0,295.5,18.9,49,15.4,0.66,0.76,8608,11583,9708,29,4,10
+LS-04,Stream-channel debris flow,Channelised debris flow down a stream with two tributary scars; scoured the bed and reached the road,17489,6262,10049,146.3,8.2,138.1,579.6,13.4,68,18.5,0.64,0.7,8112,8199,1165,0,3,3
+LS-05,Hillslope slide to road,Short slide reaching the road from the west,3791,1924,1685,53.1,11.5,41.6,127.1,18.1,84,17.6,0.64,0.81,944,2845,0,0,0,3
+LS-06,Narrow central debris flow,Long narrow scar; runout reached the road and joins the LS-07 fan,2726,1432,1230,84.3,12.7,71.6,197.8,19.9,96,20.7,0.75,0.79,1579,1147,0,0,0,0
+LS-07,Central debris-flow complex,"Largest event: wide scoured source zone, runout through the village road and a fan across the paddies",64870,45444,17341,158.5,2.6,155.9,479.9,18.0,88,12.0,0.63,0.81,14188,22655,27993,6,3,0
+LS-08,Long southern debris flow,Long scar and channel; runout crossed the road junction into the paddies,13360,3542,9309,201.7,3.6,198.2,624.6,17.6,105,16.5,0.66,0.81,5761,2468,5127,1,2,2
+LS-09,Southern slope failure,Broad shallow failure of the forested slope at the south edge of the survey; continues beyond the flown area,13684,10033,3106,128.0,17.6,110.4,319.3,19.1,107,15.2,0.84,0.86,5585,5065,3028,0,0,0

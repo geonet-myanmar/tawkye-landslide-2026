@@ -1,0 +1,14 @@
+# source deliveries (kept by the owner, not published)
+*.kmz
+*.MOV
+photo_2026-10-03_08-50-39.jpg
+# large regenerable rasters built from them
+data/ortho/
+data/class/
+# build and scratch
+data/*.log
+dist/
+_zoomtest*.html
+_prev_*/
+__pycache__/
+.claude/

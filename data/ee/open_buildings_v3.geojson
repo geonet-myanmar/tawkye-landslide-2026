@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "columns": {"area_in_meters": "Float", "confidence": "Float", "full_plus_code": "String", "longitude_latitude": "Geometry", "system:index": "String"}, "version": 1687463787852143, "id": "GOOGLE/Research/open-buildings/v3/polygons", "properties": {"system:asset_size": 193220134336}, "features": []}

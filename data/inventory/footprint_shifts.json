@@ -1,0 +1,16 @@
+{
+ "landslide": {
+  "dE": 3.75,
+  "dN": -3.0,
+  "grey_before": 0.441,
+  "grey_after": 0.597,
+  "n_used": 27
+ },
+ "plan2": {
+  "dE": 2.0,
+  "dN": -3.5,
+  "grey_before": 0.517,
+  "grey_after": 0.63,
+  "n_used": 123
+ }
+}

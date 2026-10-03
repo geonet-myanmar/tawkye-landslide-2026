@@ -1,0 +1,122 @@
+{
+ "n_landslides": 9,
+ "area_total_m2": 206490,
+ "area_runout_flat_m2": 98105,
+ "area_hillslope_m2": 108289,
+ "buildings_surveyed": 239,
+ "buildings_status": {
+  "clear": 170,
+  "destroyed": 36,
+  "edge": 21,
+  "damaged": 12
+ },
+ "reach": {
+  "standing_in_A": 101,
+  "standing_in_B": 38,
+  "standing_outside": 52,
+  "affected": 48,
+  "affected_in_A": 48
+ },
+ "runout": {
+  "alpha_open": 17.6,
+  "alpha_channel": 13.4,
+  "src_slope": 20.0,
+  "zoneA_ha": 1093.68,
+  "zoneB_ha": 167.58,
+  "calibration_share_inside": {
+   "LS-01": 0.097,
+   "LS-02": 0.962,
+   "LS-03": 1.0,
+   "LS-04": 1.0,
+   "LS-05": 1.0,
+   "LS-06": 1.0,
+   "LS-07": 0.978,
+   "LS-08": 0.952,
+   "LS-09": 1.0
+  },
+  "buildings_surveyed_by_status_reach": {
+   "clear": {
+    "": 50,
+    "A": 83,
+    "B": 37
+   },
+   "damaged": {
+    "": 0,
+    "A": 12,
+    "B": 0
+   },
+   "destroyed": {
+    "": 0,
+    "A": 36,
+    "B": 0
+   },
+   "edge": {
+    "": 2,
+    "A": 18,
+    "B": 1
+   }
+  }
+ },
+ "footprint_shifts": {
+  "landslide": {
+   "dE": 3.75,
+   "dN": -3.0,
+   "grey_before": 0.441,
+   "grey_after": 0.597,
+   "n_used": 27
+  },
+  "plan2": {
+   "dE": 2.0,
+   "dN": -3.5,
+   "grey_before": 0.517,
+   "grey_after": 0.63,
+   "n_used": 123
+  }
+ },
+ "flight_offset_m": {
+  "dE": -1.29,
+  "dN": -2.49,
+  "n_blocks": 11,
+  "note": "Plan-2 flight minus landslide flight, phase correlation in the 3.15 ha overlap"
+ },
+ "report": {
+  "source": "Dawei Watch, 1 Oct 2026",
+  "deaths": 5,
+  "missing_bodies": 3,
+  "houses_destroyed": 42,
+  "onset": "night of 26 Sep 2026",
+  "note": "Two men, a nun and two women died; the bodies of three people had not been recovered on 1 Oct. Heavy-machinery crews clearing the blocked road reached the village on 1 Oct."
+ },
+ "rain": {
+  "night_26_27": 151.0,
+  "d25_28": 617.7,
+  "sep_total": 1130.6,
+  "fetched": "2026-10-03T03:03Z",
+  "grid": [
+   13.813708,
+   98.18933
+  ]
+ },
+ "village": {
+  "name": "Taw Kye",
+  "mmr": "\u1010\u1031\u102c\u1000\u103b\u1032",
+  "pcode": "177208",
+  "vt": "Taw Kye",
+  "vt_pcode": "MMR006002033",
+  "ts": "Launglon",
+  "lon": 98.1596,
+  "lat": 13.79993
+ },
+ "flights": {
+  "landslide": {
+   "gsd_cm": 3.75,
+   "file": "TawKyel_Village_Landslide.kmz",
+   "area_ha": 59.7
+  },
+  "plan2": {
+   "gsd_cm": 5.68,
+   "file": "TawKyel_Plan-2.kmz",
+   "area_ha": 44.1
+  }
+ }
+}

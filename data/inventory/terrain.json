@@ -1,0 +1,245 @@
+[
+ {
+  "id": "LS-01",
+  "crown_z": 20.4,
+  "toe_z": 3.5,
+  "H_m": 16.9,
+  "L_m": 353.9,
+  "H_over_L": 0.048,
+  "reach_angle_deg": 2.7,
+  "azimuth_deg": 57,
+  "slope_mean_deg": 2.5,
+  "slope_p90_deg": 5.0,
+  "crown_lonlat": [
+   98.15614137494137,
+   13.801422570065675
+  ],
+  "toe_lonlat": [
+   98.15888441890772,
+   13.803169600502633
+  ],
+  "ndvi_pre_mean": 0.5,
+  "ndvi_pre_source": null,
+  "zone_m2": {
+   "source": 0.0,
+   "transport": 2306.2,
+   "runout": 48559.8
+  }
+ },
+ {
+  "id": "LS-02",
+  "crown_z": 129.2,
+  "toe_z": 6.8,
+  "H_m": 122.4,
+  "L_m": 323.2,
+  "H_over_L": 0.379,
+  "reach_angle_deg": 20.7,
+  "azimuth_deg": 20,
+  "slope_mean_deg": 17.8,
+  "slope_p90_deg": 34.2,
+  "crown_lonlat": [
+   98.15627608904518,
+   13.798547678224947
+  ],
+  "toe_lonlat": [
+   98.15730628025564,
+   13.801290510824604
+  ],
+  "ndvi_pre_mean": 0.78,
+  "ndvi_pre_source": 0.79,
+  "zone_m2": {
+   "source": 3962.3,
+   "transport": 3282.3,
+   "runout": 2524.1
+  }
+ },
+ {
+  "id": "LS-03",
+  "crown_z": 108.3,
+  "toe_z": 7.3,
+  "H_m": 101.0,
+  "L_m": 295.5,
+  "H_over_L": 0.342,
+  "reach_angle_deg": 18.9,
+  "azimuth_deg": 49,
+  "slope_mean_deg": 15.4,
+  "slope_p90_deg": 31.1,
+  "crown_lonlat": [
+   98.15689398772695,
+   13.798381877541937
+  ],
+  "toe_lonlat": [
+   98.15895825979237,
+   13.800133503295475
+  ],
+  "ndvi_pre_mean": 0.66,
+  "ndvi_pre_source": 0.76,
+  "zone_m2": {
+   "source": 8607.9,
+   "transport": 11583.3,
+   "runout": 9707.9
+  }
+ },
+ {
+  "id": "LS-04",
+  "crown_z": 146.3,
+  "toe_z": 8.2,
+  "H_m": 138.1,
+  "L_m": 579.6,
+  "H_over_L": 0.238,
+  "reach_angle_deg": 13.4,
+  "azimuth_deg": 68,
+  "slope_mean_deg": 18.5,
+  "slope_p90_deg": 26.9,
+  "crown_lonlat": [
+   98.15454140657972,
+   13.793906901592697
+  ],
+  "toe_lonlat": [
+   98.15950638312054,
+   13.795884845975392
+  ],
+  "ndvi_pre_mean": 0.64,
+  "ndvi_pre_source": 0.7,
+  "zone_m2": {
+   "source": 8112.0,
+   "transport": 8199.1,
+   "runout": 1165.1
+  }
+ },
+ {
+  "id": "LS-05",
+  "crown_z": 53.1,
+  "toe_z": 11.5,
+  "H_m": 41.6,
+  "L_m": 127.1,
+  "H_over_L": 0.327,
+  "reach_angle_deg": 18.1,
+  "azimuth_deg": 84,
+  "slope_mean_deg": 17.6,
+  "slope_p90_deg": 23.0,
+  "crown_lonlat": [
+   98.1583255297169,
+   13.793996077083657
+  ],
+  "toe_lonlat": [
+   98.1594942601229,
+   13.794125215755653
+  ],
+  "ndvi_pre_mean": 0.64,
+  "ndvi_pre_source": 0.81,
+  "zone_m2": {
+   "source": 944.5,
+   "transport": 2844.7,
+   "runout": 0.0
+  }
+ },
+ {
+  "id": "LS-06",
+  "crown_z": 84.3,
+  "toe_z": 12.7,
+  "H_m": 71.6,
+  "L_m": 197.8,
+  "H_over_L": 0.362,
+  "reach_angle_deg": 19.9,
+  "azimuth_deg": 96,
+  "slope_mean_deg": 20.7,
+  "slope_p90_deg": 26.5,
+  "crown_lonlat": [
+   98.15764740298309,
+   13.793252491366882
+  ],
+  "toe_lonlat": [
+   98.15946853914414,
+   13.793082164519614
+  ],
+  "ndvi_pre_mean": 0.75,
+  "ndvi_pre_source": 0.79,
+  "zone_m2": {
+   "source": 1579.2,
+   "transport": 1146.9,
+   "runout": 0.0
+  }
+ },
+ {
+  "id": "LS-07",
+  "crown_z": 158.5,
+  "toe_z": 2.6,
+  "H_m": 155.9,
+  "L_m": 479.9,
+  "H_over_L": 0.325,
+  "reach_angle_deg": 18.0,
+  "azimuth_deg": 88,
+  "slope_mean_deg": 12.0,
+  "slope_p90_deg": 28.5,
+  "crown_lonlat": [
+   98.15616974222847,
+   13.792449143284472
+  ],
+  "toe_lonlat": [
+   98.16060682036506,
+   13.792592231621526
+  ],
+  "ndvi_pre_mean": 0.63,
+  "ndvi_pre_source": 0.81,
+  "zone_m2": {
+   "source": 14188.0,
+   "transport": 22654.8,
+   "runout": 27993.1
+  }
+ },
+ {
+  "id": "LS-08",
+  "crown_z": 201.7,
+  "toe_z": 3.6,
+  "H_m": 198.2,
+  "L_m": 624.6,
+  "H_over_L": 0.317,
+  "reach_angle_deg": 17.6,
+  "azimuth_deg": 105,
+  "slope_mean_deg": 16.5,
+  "slope_p90_deg": 31.9,
+  "crown_lonlat": [
+   98.15480437768336,
+   13.791224575863527
+  ],
+  "toe_lonlat": [
+   98.16038847946933,
+   13.789772226718544
+  ],
+  "ndvi_pre_mean": 0.66,
+  "ndvi_pre_source": 0.81,
+  "zone_m2": {
+   "source": 5761.3,
+   "transport": 2467.5,
+   "runout": 5127.2
+  }
+ },
+ {
+  "id": "LS-09",
+  "crown_z": 128.0,
+  "toe_z": 17.6,
+  "H_m": 110.4,
+  "L_m": 319.3,
+  "H_over_L": 0.346,
+  "reach_angle_deg": 19.1,
+  "azimuth_deg": 107,
+  "slope_mean_deg": 15.2,
+  "slope_p90_deg": 27.0,
+  "crown_lonlat": [
+   98.15590059603626,
+   13.790140743506303
+  ],
+  "toe_lonlat": [
+   98.15873010061023,
+   13.78931082449238
+  ],
+  "ndvi_pre_mean": 0.84,
+  "ndvi_pre_source": 0.86,
+  "zone_m2": {
+   "source": 5584.7,
+   "transport": 5065.1,
+   "runout": 3028.0
+  }
+ }
+]
